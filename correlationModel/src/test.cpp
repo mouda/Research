@@ -26,15 +26,17 @@ int main(int argc, char *argv[]) {
   cout << b.get_f() << endl;
   */
     
-  /*  
-  for (double i = -100; i < 100; i++) {
+    
+  for (double i = -90; i < 90; i++) {
     b.set_theta(i*PI/180);
     cout << spatialCorrelation(a,b) << endl;
   }
-  */
+  
+  /*
   for (double i = 2.5; i < 50; i++) {
     b.set_d(i);
     cout << spatialCorrelation(a,b) << endl;
   }
+  */
   return 0;
 }

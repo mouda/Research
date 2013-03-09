@@ -38,8 +38,8 @@ class CameraPos {
     double get_direction(){return dir;}
     double get_f(){ return f;}
 
-    Position set_position ( const Position& Pos){ pos = Pos; }
-    double   set_direction( const double& Dir){ dir = Dir;}
+    Position set_position ( Position Pos){ pos = Pos; }
+    double   set_direction( double Dir){ dir = Dir;}
     void set_f( double F ){ f = F; }
    
     // Advance operation

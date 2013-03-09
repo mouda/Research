@@ -43,8 +43,12 @@ int main(int argc, char *argv[]) {
   /* f number calculation */
   double f_value = 50/0.1;;
 
+  /* construct the camera */
+
+
+  /*
   Position posTest_1;
-  posTest_1.x=50;
+  posTest_1.x=2.5;
   posTest_1.y=0;
   CameraPos cameraTest_1(posTest_1,PI,f_value);
 
@@ -56,23 +60,17 @@ int main(int argc, char *argv[]) {
   Position targetPos;
   targetPos.x=0;
   targetPos.y=0;
-  cout << cameraTest_2.corrCoeff(cameraTest_1,targetPos) << endl;
-
 
 
   
+  for (double i = -90; i < 90; i++) {
+    double length = 2.5;
+    posTest_2.x = length*cos(i*PI/180);
+    posTest_2.y = length*sin(i*PI/180);
+    cameraTest_2.set_position(posTest_2);
+    cameraTest_2.set_direction(i*PI/180+PI); //To inverse the direction
+    cout << cameraTest_2.corrCoeff(cameraTest_1,targetPos) << endl;
+  }*/
 
-
-
-  /* construct the camera */
-//  camera a(2.5, 0*PI/180, f_value, 0);
-//  camera b(2.5, 1*PI/180, f_value, 0);
-    
-  /*  
-  for (double i = -100; i < 100; i++) {
-    b.set_theta(i*PI/180);
-    cout << spatialCorrelation(a,b) << endl;
-  }
-  */
   return 0;
 }
