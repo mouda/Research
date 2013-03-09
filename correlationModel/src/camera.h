@@ -1,7 +1,9 @@
 #ifndef CAMERA_H
 #define CAMERA_H
 
-typedef struct{
+typedef struct Position{
+  Position(){}
+  Position(double X, double Y):x(X),y(Y){}
   double x; // x position(m)
   double y; // y position(m)
 } Position;

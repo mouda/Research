@@ -45,6 +45,18 @@ int main(int argc, char *argv[]) {
 
   /* construct the camera */
 
+  vector<CameraPos> cameras;
+  for ( int i = 0; i < D_xPositions.size(); i++) {
+    Position p(D_xPositions[i],D_yPositions[i]);
+    CameraPos c(p,D_directions[i],f_value);
+    cameras.push_back(c);
+  } 
+
+  Position originPoint(0,0);
+  /* Testing the correlation coefficient */
+  for ( int i = 0; i < 99; i++) {
+    cout << cameras[i].corrCoeff(cameras[i+1],originPoint) << endl;
+  }
 
   /*
   Position posTest_1;
