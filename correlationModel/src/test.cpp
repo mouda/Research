@@ -16,7 +16,11 @@ int main(int argc, char *argv[]) {
 
   /* construct the Camera */
   Camera a(2.5, 0*PI/180, f_value, 0);
-  Camera b(2.5, 1*PI/180, f_value, 0);
+  Camera b(10.0, 0*PI/180, f_value, 0);
+  cout << "rho:         " << spatialCorrelation(a,b) << endl;
+  cout << "Joint:       " << jointEntropy(3,3,spatialCorrelation(a,b)) << endl; 
+  cout << "Independent: " << 3+3 << endl;
+  cout << "Efficiency:  " << etaOfTwoViews(3,3,spatialCorrelation(a,b)) << endl;
   /*  
   cout << a.get_theta() << endl;
   cout << a.get_d() << endl;
@@ -26,12 +30,12 @@ int main(int argc, char *argv[]) {
   cout << b.get_f() << endl;
   */
     
-    
+  /*    
   for (double i = -90; i < 90; i++) {
     b.set_theta(i*PI/180);
     cout << spatialCorrelation(a,b) << endl;
   }
-  
+  */
   /*
   for (double i = 2.5; i < 50; i++) {
     b.set_d(i);

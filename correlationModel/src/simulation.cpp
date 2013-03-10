@@ -52,11 +52,6 @@ int main(int argc, char *argv[]) {
     cameras.push_back(c);
   } 
 
-  Position originPoint(0,0);
-  /* Testing the correlation coefficient */
-  for ( int i = 0; i < 99; i++) {
-    cout << cameras[i].corrCoeff(cameras[i+1],originPoint) << endl;
-  }
 
   /*
   Position posTest_1;

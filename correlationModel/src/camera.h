@@ -49,8 +49,10 @@ class CameraPos {
 
   private:
     static double oiginPoint; 
-    Position pos;  //position
-    double dir;    //direction 
-    double f;      //focal length (m)
+    Position pos;           // position
+    double dir;             // direction (arc)
+    double f;               // focal length (m)
+    double FoV;             // (arc)
+    double sensingRadius;   // (m)
 };
 #endif
