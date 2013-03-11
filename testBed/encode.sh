@@ -18,9 +18,10 @@ export PATH=$PATH:../../JMVC/jmvc/bin/
 #MVCBitStreamAssemblerStaticd -vf assembler.cfg
 
 # Experiment operation Ex02
-H264AVCEncoderLibTestStaticd -vf 00Ex2Experiment.cfg 0  
-H264AVCEncoderLibTestStaticd -vf 00Ex2Experiment.cfg 1 
+#H264AVCEncoderLibTestStaticd -vf 00Ex2Experiment.cfg 0  
+#H264AVCEncoderLibTestStaticd -vf 00Ex2Experiment.cfg 1 
 
 
 export PATH=$PATH:../../JM/bin/
+lencod.exe -f encoder_stereo.cfg 
 #lencod.exe -f 00Ex2ExperimentIdt.cfg

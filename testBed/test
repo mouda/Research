@@ -1,0 +1,1113 @@
+Setting Default Parameters...
+Parsing Configfile encoder.cfg....................................................................................................................................................................................................................................................................................................................................................................................................................
+Parsing Configfile 00Ex2ExperimentIdt.cfg....................................................................................................................................................................................................................................................................................................................................................................................................................
+
+Parsing Second View Configfile encoder.cfg.
+	Parsing error in config file: Parameter Name 'InputHeaderLength' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'StartFrame' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'FramesToBeEncoded' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'FrameRate' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '25.0' not recognized.
+	Parsing error in config file: Parameter Name 'Enable32Pulldown' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SEIVUI32Pulldown' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SourceWidth' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '640' not recognized.
+	Parsing error in config file: Parameter Name 'SourceHeight' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '480' not recognized.
+	Parsing error in config file: Parameter Name 'SourceResize' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'OutputWidth' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '640' not recognized.
+	Parsing error in config file: Parameter Name 'OutputHeight' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '480' not recognized.
+	Parsing error in config file: Parameter Name 'ProcessInput' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Interleaved' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'PixelFormat' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'StandardRange' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VideoCode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'TraceFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'trace_enc.txt' not recognized..
+	Parsing error in config file: Parameter Name 'OutputFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'test.264' not recognized.
+	Parsing error in config file: Parameter Name 'StatsFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'stats.dat' not recognized.
+	Parsing error in config file: Parameter Name 'NumberOfViews' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'View1ConfigFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'encoder_view1.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'Grayscale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ProfileIDC' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '100' not recognized.
+	Parsing error in config file: Parameter Name 'IntraProfile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'LevelIDC' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '30' not recognized.
+	Parsing error in config file: Parameter Name 'IntraPeriod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'IDRPeriod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptiveIntraPeriod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptiveIDRPeriod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'IntraDelay' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'EnableIDRGOP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'EnableOpenGOP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'QPISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '31' not recognized.
+	Parsing error in config file: Parameter Name 'QPPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '31' not recognized.
+	Parsing error in config file: Parameter Name 'FrameSkip' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChromaQPOffset' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized...
+	Parsing error in config file: Parameter Name 'MESoftenSSEMetric' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'MEDistortionFPel' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'MEDistortionHPel' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'MEDistortionQPel' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'MDDistortion' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'SkipDeBlockNonRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'OnTheFlyFractMCP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChromaMCBuffer' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'ChromaMEEnable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChromaMEWeight' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'NumberReferenceFrames' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '5' not recognized..
+	Parsing error in config file: Parameter Name 'Log2MaxFNumMinus4' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Log2MaxPOCLsbMinus4' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '-1' not recognized.
+	Parsing error in config file: Parameter Name 'GenerateMultiplePPS' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'SendAUD' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ResendSPS' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'ResendPPS' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'MbLineIntraUpdate' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RandomIntraMBRefresh' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.................
+	Parsing error in config file: Parameter Name 'BiPredSearch16x16' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'BiPredSearch16x8' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'BiPredSearch8x16' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'BiPredSearch8x8' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'DisableIntra4x4' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'DisableIntra16x16' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized..
+	Parsing error in config file: Parameter Name 'IntraDisableInterOnly' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Intra4x4ParDisable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Intra4x4DiagDisable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Intra4x4DirDisable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Intra16x16ParDisable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Intra16x16PlaneDisable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChromaIntraDisable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'EnableIPCM' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'DisposableP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'DispPQPOffset' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'PreferDispOrder' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'PreferPowerOfTwo' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'FrmStructBufferLength' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '16' not recognized.
+	Parsing error in config file: Parameter Name 'ChangeQPFrame' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChangeQPI' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChangeQPP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChangeQPB' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChangeQPSI' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChangeQPSP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'NumberBFrames' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '7' not recognized.
+	Parsing error in config file: Parameter Name 'PReplaceBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'QPBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '30' not recognized.
+	Parsing error in config file: Parameter Name 'BRefPicQPOffset' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '-1' not recognized.
+	Parsing error in config file: Parameter Name 'DirectModeType' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'DirectInferenceFlag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized...
+	Parsing error in config file: Parameter Name 'BReferencePictures' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'HierarchicalCoding' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'HierarchyLevelQPEnable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'ExplicitHierarchyFormat' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'b3r0b1r1b0e2b2e2b5r1b4e2b6e2' not recognized.
+	Parsing error in config file: Parameter Name 'ExplicitSeqCoding' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ExplicitSeqFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'explicit_seq.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'LowDelay' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ReferenceReorder' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'PocMemoryManagement' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'SetFirstAsLongTerm' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'BiPredMotionEstimation' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'BiPredMERefinements' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized..
+	Parsing error in config file: Parameter Name 'BiPredMESubPel' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'BLevel0MoreRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'BIdenticalList' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'CRA' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'HM50RefStructure' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'LDRefSetting' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SPPicturePeriodicity' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SPSwitchPeriod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'QPSPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '36' not recognized.
+	Parsing error in config file: Parameter Name 'QPSISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '36' not recognized.
+	Parsing error in config file: Parameter Name 'QPSP2Slice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '35' not recognized.
+	Parsing error in config file: Parameter Name 'SI_FRAMES' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SP_output' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SP_output_name' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'low_quality.dat' not recognized.
+	Parsing error in config file: Parameter Name 'SP2_FRAMES' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SP2_input_name1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'high_quality.dat' not recognized.
+	Parsing error in config file: Parameter Name 'SP2_input_name2' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'low_quality.dat' not recognized.
+	Parsing error in config file: Parameter Name 'SymbolMode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'OutFileMode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'PartitionMode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ContextInitMethod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'FixedModelNumber' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'PicInterlace' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'MbInterlace' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'IntraBottom' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'WeightedPrediction' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'WeightedBiprediction' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChromaWeightSupport' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'UseWeightedReferenceME' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'WPMethod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'WPIterMC' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'EnhancedBWeightSupport' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'WPMCPrecision' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'WPMCPrecFullRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'WPMCPrecBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureDecision' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDPSliceBTest' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDPSliceITest' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureMaxPassISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureMaxPassPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureMaxPassBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureFrameQPPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureFrameQPBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureDeblocking' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDPictureDirectMode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'DFParametersFlag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized...................
+	Parsing error in config file: Parameter Name 'SliceMode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SliceArgument' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '50' not recognized.
+	Parsing error in config file: Parameter Name 'num_slice_groups_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'slice_group_map_type' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'slice_group_change_direction_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'slice_group_change_rate_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '85' not recognized.
+	Parsing error in config file: Parameter Name 'SliceGroupConfigFileName' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'sg0conf.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'UseRedundantPicture' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'NumRedundantHierarchy' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'PrimaryGOPLength' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '10' not recognized.
+	Parsing error in config file: Parameter Name 'NumRefPrimary' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RestrictSearchRange' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'RDOptimization' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'I16RDOpt' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'SubMBCodingState' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'DistortionSSIM' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'DistortionMS_SSIM' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SSIMOverlapSize' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'DistortionYUVtoRGB' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'CtxAdptLagrangeMult' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'FastCrIntraDecision' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'DisableThresholding' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'DisableBSkipRDO' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'BiasSkipRDO' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ForceTrueRateRDO' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SkipIntraInInterSlices' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'WeightY' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'WeightCb' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'WeightCr' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'UseExplicitLambdaParams' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'UpdateLambdaChromaME' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'FixedLambdaISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.1' not recognized.
+	Parsing error in config file: Parameter Name 'FixedLambdaPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.1' not recognized.
+	Parsing error in config file: Parameter Name 'FixedLambdaBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.1' not recognized.
+	Parsing error in config file: Parameter Name 'FixedLambdaRefBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.1' not recognized.
+	Parsing error in config file: Parameter Name 'FixedLambdaSPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.1' not recognized.
+	Parsing error in config file: Parameter Name 'FixedLambdaSISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.1' not recognized.
+	Parsing error in config file: Parameter Name 'LambdaWeightISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.65' not recognized.
+	Parsing error in config file: Parameter Name 'LambdaWeightPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.68' not recognized.
+	Parsing error in config file: Parameter Name 'LambdaWeightBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.68' not recognized.
+	Parsing error in config file: Parameter Name 'LambdaWeightRefBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.68' not recognized.
+	Parsing error in config file: Parameter Name 'LambdaWeightSPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.68' not recognized.
+	Parsing error in config file: Parameter Name 'LambdaWeightSISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.65' not recognized.
+	Parsing error in config file: Parameter Name 'LossRateA' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '5' not recognized.
+	Parsing error in config file: Parameter Name 'LossRateB' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'LossRateC' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'FirstFrameCorrect' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'NumberOfDecoders' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '30' not recognized.
+	Parsing error in config file: Parameter Name 'RestrictRefFrames' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'UseConstrainedIntraPred' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'NumberofLeakyBuckets' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'LeakyBucketRateFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'leakybucketrate.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'LeakyBucketParamFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'leakybucketparam.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'NumFramesInELayerSubSeq' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SparePictureOption' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SparePictureDetectionThr' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '6' not recognized.
+	Parsing error in config file: Parameter Name 'SparePicturePercentageThr' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '92' not recognized.
+	Parsing error in config file: Parameter Name 'PicOrderCntType' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RateControlEnable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Bitrate' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '45020' not recognized.
+	Parsing error in config file: Parameter Name 'InitialQP' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'BasicUnit' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ChannelType' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RCUpdateMode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RCISliceBitRatio' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1.0' not recognized.
+	Parsing error in config file: Parameter Name 'RCBSliceBitRatio0' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.5' not recognized.
+	Parsing error in config file: Parameter Name 'RCBSliceBitRatio1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.25' not recognized.
+	Parsing error in config file: Parameter Name 'RCBSliceBitRatio2' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.25' not recognized.
+	Parsing error in config file: Parameter Name 'RCBSliceBitRatio3' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.25' not recognized.
+	Parsing error in config file: Parameter Name 'RCBSliceBitRatio4' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.25' not recognized.
+	Parsing error in config file: Parameter Name 'RCBoverPRatio' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0.45' not recognized.
+	Parsing error in config file: Parameter Name 'RCIoverPRatio' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3.80' not recognized.
+	Parsing error in config file: Parameter Name 'RCMinQPPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'RCMaxQPPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '42' not recognized.
+	Parsing error in config file: Parameter Name 'RCMinQPBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'RCMaxQPBSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '42' not recognized.
+	Parsing error in config file: Parameter Name 'RCMinQPISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'RCMaxQPISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '42' not recognized.
+	Parsing error in config file: Parameter Name 'RCMinQPSPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'RCMaxQPSPSlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '40' not recognized.
+	Parsing error in config file: Parameter Name 'RCMinQPSISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'RCMaxQPSISlice' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '42' not recognized.
+	Parsing error in config file: Parameter Name 'RCMaxQPChange' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '4' not recognized.
+	Parsing error in config file: Parameter Name 'EarlySkipEnable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SelectiveIntraEnable' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'YUVFormat' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RGBInput' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SeparateColourPlane' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SourceBitDepthLuma' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'SourceBitDepthChroma' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'SourceBitDepthRescale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'OutputBitDepthLuma' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'OutputBitDepthChroma' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'CbQPOffset' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'CrQPOffset' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Transform8x8Mode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'ReportFrameStats' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'DisplayEncParams' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'Verbose' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'SkipGlobalStats' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'QmatrixFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'q_matrix.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingMatrixPresentFlag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag0' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag2' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag3' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag4' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag5' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag6' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag7' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag8' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag9' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag10' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'ScalingListPresentFlag11' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'OffsetMatrixPresentFlag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'QOffsetMatrixFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'q_offset.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptiveRounding' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRoundingFixed' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndPeriod' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '16' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndChroma' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndWFactorIRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndWFactorPRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndWFactorBRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndWFactorINRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndWFactorPNRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndWFactorBNRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndCrWFactorIRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndCrWFactorPRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndCrWFactorBRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndCrWFactorINRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndCrWFactorPNRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'AdaptRndCrWFactorBNRef' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '8' not recognized.
+	Parsing error in config file: Parameter Name 'UseRDOQuant' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_DC' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_CR' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_DC_CR' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_QP_Num' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '5' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_CP_Mode' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_CP_MV' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'RDOQ_Fast' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'LosslessCoding' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized..
+	Parsing error in config file: Parameter Name 'UMHexDSR' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'UMHexScale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'EPZSPattern' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'EPZSDualRefinement' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized.
+	Parsing error in config file: Parameter Name 'EPZSFixedPredictors' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '3' not recognized..
+	Parsing error in config file: Parameter Name 'EPZSSpatialMem' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'EPZSBlockType' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized....
+	Parsing error in config file: Parameter Name 'EPZSSubPelME' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'EPZSSubPelMEBiPred' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized..
+	Parsing error in config file: Parameter Name 'EPZSSubPelGrid' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'ToneMappingSEIPresentFlag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'ToneMappingFile' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'ToneMapping.cfg' not recognized.
+	Parsing error in config file: Parameter Name 'GenerateSEIMessage' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SEIMessageText' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name 'H.264/AVC Encoder' not recognized.
+	Parsing error in config file: Parameter Name 'UseMVLimits' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'SetMVXLimit' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '512' not recognized.
+	Parsing error in config file: Parameter Name 'SetMVYLimit' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '512' not recognized.
+	Parsing error in config file: Parameter Name 'EnableVUISupport' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_aspect_ratio_info_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_aspect_ratio_idc' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_sar_width' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_sar_height' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_overscan_info_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_overscan_appropriate_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_video_signal_type_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_video_format' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '5' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_video_full_range_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_colour_description_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_colour_primaries' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_transfer_characteristics' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_matrix_coefficients' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '2' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_chroma_location_info_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_chroma_sample_loc_type_top_field' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_chroma_sample_loc_type_bottom_field' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_timing_info_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_num_units_in_tick' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1000' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_time_scale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '60000' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_fixed_frame_rate_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_hrd_parameters_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_cpb_cnt_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_bit_rate_scale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_cpb_size_scale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_bit_rate_value_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_cpb_size_value_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_vbr_cbr_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_initial_cpb_removal_delay_length_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '23' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_cpb_removal_delay_length_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '23' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_dpb_output_delay_length_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '23' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_nal_time_offset_length' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '24' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_hrd_parameters_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_cpb_cnt_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_bit_rate_scale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_cpb_size_scale' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_bit_rate_value_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_cpb_size_value_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_vbr_cbr_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_initial_cpb_removal_delay_length_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '23' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_cpb_removal_delay_length_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '23' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_dpb_output_delay_length_minus1' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '23' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_vcl_time_offset_length' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '24' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_low_delay_hrd_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_pic_struct_present_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_bitstream_restriction_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_motion_vectors_over_pic_boundaries_flag' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '1' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_max_bytes_per_pic_denom' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_max_bits_per_mb_denom' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '0' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_log2_max_mv_length_vertical' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '16' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_log2_max_mv_length_horizontal' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '16' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_num_reorder_frames' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+	Parsing error in config file: Parameter Name '16' not recognized.
+	Parsing error in config file: Parameter Name 'VUI_max_dec_frame_buffering' not recognized.
+	Parsing error in config file: Parameter Name '=' not recognized.
+------------------------------- JM 18.4 (FRExt) -------------------------------
+ Input YUV file                    : ../../JMVC/testSequences/Ex2_Distance/Ex2.0/Ex2_0.yuv 
+ Input YUV file 2                  : ../../JMVC/testSequences/Ex2_Distance/Ex2.0/Ex2_1.yuv 
+ Output H.264 bitstream            : test.264 
+ Output YUV file                   : test_rec.yuv 
+ Output YUV file 2                 : test_rec.yuv 
+ YUV Format                        : YUV 4:2:0 
+ Frames to be encoded              : 1
+ Freq. for encoded bitstream       : 25.00
+ PicInterlace / MbInterlace        : 0/0
+ Transform8x8Mode                  : 1
+ ME Metric for Refinement Level 0  : SAD
+ ME Metric for Refinement Level 1  : Hadamard SAD
+ ME Metric for Refinement Level 2  : Hadamard SAD
+ Mode Decision Metric              : Hadamard SAD
+ Motion Estimation for components  : Y
+ Image format                      : 640x480 (640x480)
+ Error robustness                  : Off
+ Search range                      : 128
+ Total number of references        : 5
+ References for P slices           : 5
+ References for B slices (L0, L1)  : 5, 1
+ View 1 refs for P slices          : 5
+ View 1 refs for B slices (L0, L1) : 5, 1
+ Sequence type                     : Hierarchy (QP: I 30, P 30, B 30) 
+ Entropy coding method             : CABAC
+ Profile/Level IDC                 : (100,40)
+ Motion Estimation Scheme          : EPZS
+ EPZS Pattern                      : Extended Diamond
+ EPZS Dual Pattern                 : Extended Diamond
+ EPZS Fixed Predictors             : Aggressive
+ BL EPZS Temporal Predictors       : Enabled
+ EL EPZS Temporal Predictors       : Enabled
+ EPZS Spatial Predictors           : Enabled
+ EPZS Threshold Multipliers        : (1 0 2)
+ EPZS Subpel ME                    : Basic
+ EPZS Subpel ME BiPred             : Basic
+ Search range restrictions         : none
+ RD-optimized mode decision        : used
+ Data Partitioning Mode            : 1 partition 
+ Output File Format                : H.264/AVC Annex B Byte Stream Format 
+------------------------------------------------------------------------------------
+Frame     View Bit/pic    QP   SnrY    SnrU    SnrV    Time(ms) MET(ms) Frm/Fld Ref  
+------------------------------------------------------------------------------------
