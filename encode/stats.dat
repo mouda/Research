@@ -1,0 +1,79 @@
+ -------------------------------------------------------------- 
+  This file contains statistics for the last encoded sequence   
+ -------------------------------------------------------------- 
+ Sequence                     : ../JMVC/testSequences/Ex2_distance/Ex2.1/Ex2_distance_0.yuv
+ No.of coded pictures         :    1
+ Freq. for encoded bitstream  :   25
+ I Slice Bitrate(kb/s)        : 652.60
+ P Slice Bitrate(kb/s)        :   0.00
+ B Slice Bitrate(kb/s)        :   0.00
+ Total Bitrate(kb/s)          : 660.80
+ ME Level 0 Metric            : SAD
+ ME Level 1 Metric            : Hadamard SAD
+ ME Level 2 Metric            : Hadamard SAD
+ Mode Decision Metric         : Hadamard SAD
+ ME for components            : Y
+ Image format                 : 640x480
+ Error robustness             : Off
+ Search range                 : 128
+ Total number of references   : 5
+ References for P slices      : 5
+ Profile/Level IDC            : (100,40)
+ Entropy coding method        : CABAC
+ EPZS Pattern                 : Extended Diamond
+ EPZS Dual Pattern            : Extended Diamond
+ EPZS Fixed Predictors        : Aggressive
+ EPZS Temporal Predictors     : Enabled
+ EPZS Spatial Predictors      : Enabled
+ EPZS Threshold Multipliers   : (1 0 2)
+ EPZS Subpel ME               : Basic
+ EPZS Subpel ME BiPred        : Basic
+ Search range restrictions    : none
+ RD-optimized mode decision   : used
+
+ ---------------------|----------------|---------------|
+     Item             |     Intra      |   All frames  |
+ ---------------------|----------------|---------------|
+ SNR Y(dB)            | 43.96          | 43.96         |
+ SNR U/V (dB)         | 49.27/50.02    | 49.27/50.02   |
+ ---------------------|----------------|---------------|
+
+ ---------------------|----------------|---------------|---------------|
+     SNR              |        I       |       P       |       B       |
+ ---------------------|----------------|---------------|---------------|
+ SNR Y(dB)            |      43.963    |     0.000    |     0.000    |
+ SNR U(dB)            |      49.268    |     0.000    |     0.000    |
+ SNR V(dB)            |      50.024    |     0.000    |     0.000    |
+ ---------------------|----------------|---------------|---------------|
+
+ ---------------------|----------------|---------------|---------------|
+     Ave Quant        |        I       |       P       |       B       |
+ ---------------------|----------------|---------------|---------------|
+        QP            |      30.000    |     0.000    |     0.000    |
+ ---------------------|----------------|---------------|---------------|
+
+ ---------------------|----------------|
+   Intra              |   Mode used    |
+ ---------------------|----------------|
+ Mode 0  intra 4x4    |     69         |
+ Mode 1  intra 8x8    |    319         |
+ Mode 2+ intra 16x16  |    812         |
+ Mode    intra IPCM   |      0         |
+ ---------------------|----------------|
+
+ ---------------------|----------------|----------------|----------------|----------------|
+  Bit usage:          |      Intra     |      Inter     |    B frame     |    SP frame    |
+ ---------------------|----------------|----------------|----------------|----------------|
+ Header               |      32.00     |       0.00     |       0.00     |
+ Mode                 |    6164.00     |       0.00     |       0.00     |
+ Motion Info          |        ./.     |       0.00     |       0.00     |
+ CBP Y/C              |    1592.00     |       0.00     |       0.00     |
+ Coeffs. Y            |   16944.00     |       0.00     |       0.00     |       0.00     |
+ Coeffs. C            |    1229.00     |       0.00     |       0.00     |       0.00     |
+ Coeffs. CB           |       0.00     |       0.00     |       0.00     |       0.00     |
+ Coeffs. CR           |       0.00     |       0.00     |       0.00     |       0.00     |
+ Delta quant          |      49.00     |       0.00     |       0.00     |
+ Stuffing Bits        |       9.00     |       0.00     |       0.00     |
+ ---------------------|----------------|----------------|----------------|
+ average bits/frame   |   26019.00     |       0.00     |       0.00     |
+ ---------------------|----------------|----------------|----------------|
