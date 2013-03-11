@@ -15,8 +15,8 @@ int main(int argc, char *argv[]) {
   double f_value = 50/0.1;
 
   /* construct the Camera */
-  Camera a(2.5, 0*PI/180, f_value, 0);
-  Camera b(10.0, 0*PI/180, f_value, 0);
+  Camera a(1.6, 0*PI/180, f_value, 0);
+  Camera b(7.2, 0*PI/180, f_value, 0);
   cout << "rho:         " << spatialCorrelation(a,b) << endl;
   cout << "Joint:       " << jointEntropy(3,3,spatialCorrelation(a,b)) << endl; 
   cout << "Independent: " << 3+3 << endl;
@@ -36,11 +36,13 @@ int main(int argc, char *argv[]) {
     cout << spatialCorrelation(a,b) << endl;
   }
   */
-  /*
+  
+  /*  
   for (double i = 2.5; i < 50; i++) {
     b.set_d(i);
     cout << spatialCorrelation(a,b) << endl;
   }
   */
+  
   return 0;
 }

@@ -37,7 +37,8 @@ double spatialCorrelation(Camera a, Camera b)
   bR = b.get_r();
   delta =  disparity( aD, aTheta, aR, bD, bTheta, bR);
 
-  rho = (2/(1+pow(b.get_d()/a.get_d(),2.0)))*(1-delta);
+  //rho = (2/(1+pow(b.get_d()/a.get_d(),2.0)))*(1-delta);
+  rho = 1-delta;
   return rho;
 }
 

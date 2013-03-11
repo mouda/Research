@@ -1,0 +1,10 @@
+clear;
+close all;
+xx = [30 20 13.8000000000000 10 7.54000000000000 ]; 
+yy = [10.1200000000000 9.08000000000000 8.62000000000000 8.44000000000000 8.12000000000000];
+scatter(xx,yy,'b','*');
+hold on;
+plot(xx,yy);
+grid on;
+xlabel('Estimated Joint Coding Efficiency (%)');
+ylabel('Actual Joint Coding Efficiency (%)');
